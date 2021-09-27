@@ -1,0 +1,169 @@
+body {
+	background-color: #220F08;
+	background-repeat: no-repeat;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family: Arial;
+	font-size: 11px;
+}
+H1 {
+	font-size: 21px;
+	color: #51070C;
+}
+.slogan {
+	padding-left: 187px;
+	font-family: Arial;
+   	font-size: 13px;
+	font-weight: bold;
+	line-height: 18px;	
+	color: #E06D6D;
+}
+.title {
+	padding-left: 185px;
+	font-family: Arial;
+	font-size: 33px;
+	font-weight: bold;
+	color: #FFF;
+}
+.copyright {
+	border: 0px;
+	height: 1px;
+	width: 1px;
+}
+.style1 {
+	color: #2AD429;
+	font-weight: bold;
+}
+.style2 {
+	color: #B13D13;
+	font-weight: bold;
+}
+.space {
+ 	line-height: 15px;	
+}
+a.navbar {
+	font-family: Tahoma;
+	font-size: 10px;
+	text-decoration: none;
+	color: #fff;
+	font-weight: none;
+}
+a.navbar:hover {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #fff;
+	font-weight: none;
+	text-decoration: underline;
+}
+a.navbar2 {
+	font-family: Arial;
+	font-size: 11px;
+	text-decoration: none;
+	color: #FFF;
+	font-weight: bold;
+}
+a.navbar2:hover {
+	font-family: Arial;
+	font-size: 11px;
+	color: #FE1A19;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.navbar3 {
+	font-size: 11px;
+	font-weight: none;
+	text-decoration: none;
+	color: #FFF;
+}
+a.navbar3:hover {
+	font-size: 11px;
+	font-weight: none;
+	color: #FFF;
+	text-decoration: underline;
+}
+a.navbar4 {
+	font-size: 10px;
+	font-weight: none;
+	text-decoration: none;
+	color: #FFFF00;
+	text-decoration: none;
+}
+a.navbar4:hover {
+	font-size: 10px;
+	font-weight: none;
+	color: #FFFF00;
+	text-decoration: underline;
+}
+a.navbar5 {
+	font-size: 10px;
+	font-weight: none;
+	text-decoration: underline;
+	color: #FFF;
+}
+a.navbar5:hover {
+	font-size: 10px;
+	font-weight: none;
+	color: #FFF;
+	text-decoration: none;
+}
+.txt-1 {
+	font-size: 12px;
+	font-weight: bold;	
+	color: #FFF;
+}
+.txt-2 {
+   font-size: 11px;
+	line-height: 18px;	
+	color: #FFF;
+}
+.txt-3 {
+   font-size: 11px;
+	line-height: 18px;	
+	color: #000;
+}
+.txt-4 {
+   font-size: 11px;
+	line-height: 15px;	
+	color: #FFF;
+	font-weight: bold;
+}
+.txt-5 {
+	font-size: 11px;
+	line-height: 15px;
+	font-weight: none;	
+	color: #FFF;
+}
+.head-1 {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFF00;
+}
+.head-2 {
+	padding-left: 15px;
+	font: Arial;
+	font-size: 21px;
+	font-weight: bold;	
+	color: #000;
+}
+.head-3 {
+	padding-left: 15px;
+	font: Arial;
+	font-size: 15px;
+	font-weight: bold;	
+	color: #990000;
+}
+.head-4 {
+	font: Arial;
+	font-size: 15px;
+	font-weight: bold;	
+	color: #FFF;
+}
+.head-5 {
+	font: Tahoma;
+	font-size: 17px;
+	font-weight: bold;	
+	color: #D51314;
+}
